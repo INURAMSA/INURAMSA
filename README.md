@@ -1,7 +1,9 @@
-# INURAMSA
-BOT WHATSAPP TERMUX ONLY BY INURAMSA
+## Hi there, I'm INURAMSA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+![](https://visitor-badge.glitch.me/badge?page_id=INURAMSA)
+![INURAMSA](https://komarev.com/ghpvc/?username=INURAMSA&label=Views&color=blue&style=plastic)
+[![GitHub INURAMSA](https://img.shields.io/github/followers/INURAMSA?label=follow&style=social)](https://github.com/INURAMSA)
 <p align="center">
-<img src = "https://images.app.goo.gl/KwAp2AdzZQvNLyBA8" width="320">
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p>
 <p align="center">
 <a href="#"><img title="INURAMSA" src="https://img.shields.io/badge/INURAMSA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
