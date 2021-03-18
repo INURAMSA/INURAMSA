@@ -23,12 +23,13 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
  
-</details>
 
 
 
 
-📫 Follow Me On
+
+## 📫 Follow Me On
+
 <a href="https://www.instagram.com/inuramsa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://youtube.com/channel/UCo-X2L6tomlBHAnM90EcT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://wa.me/6283806256473" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
