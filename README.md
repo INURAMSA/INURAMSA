@@ -9,7 +9,7 @@
 <a href="#"><img title="INURAMSA" src="https://img.shields.io/badge/INURAMSA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/INURAMSA"><img title="INURAMSA" src="https://img.shields.io/badge/AUTHOR-INURAMSA ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/INURAMSA"><img title="INURAMSA" src="https://img.shields.io/badge/AUTHOR-INURAMSA -orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/INURAMSA/INURAMSA"><img title="Rating" src="https://www.codefactor.io/repository/github/INURAMSA/INURAMSA/badge/master"></a>
@@ -24,10 +24,44 @@
 </p>
  
 </details>
->kalo Mau Reupload Tag nama saya
->hargai pembuat skrip
 
 
+
+
+📫 Follow Me On
+<a href="https://www.instagram.com/inuramsa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/channel/UCo-X2L6tomlBHAnM90EcT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6283806256473" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+
+<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
+<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+
+### About Me ⚠️
+___
+
+![INURAMSA github stats](https://github-readme-stats.vercel.app/api?username=INURAMSA&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INURAMSA&hide=css,html&theme=tokyonight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=INURAMSA&repo=INURAMSA)](https://github.com/INURAMSA/INURAMSA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=INURAMSA&repo=INURAMSA)](https://github.com/INURAMSA/INURAMSA)
+<!--
+**INURAMSA/INURAMSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+**Personal Stuffs:**
+- 🔭 I’m currently working on my campus project
+- 🌱 I’m currently learning typescript
+- ✨ Interested in backend-ish things 
+- 🤔 Looking for help with my [Github](https://github.com/INURAMSA)
+- 📫 Reach me via [whatsapp](https://wa.me/6283806256473) or [facebook](https://www.facebook.com/nuramsa.4/)
+
+
+[![🦉 INURAMSA github stats](https://github-readme-stats.vercel.app/api?username=INURAMSA&show_icons=true&hide_border=true&hide=issues)](https://github.com/INURAMSA)
 
 
 
