@@ -13,16 +13,13 @@ BOT WHATSAPP TERMUX ONLY BY INURAMSA
 <a href="https://www.codefactor.io/repository/github/INURAMSA/INURAMSA"><img title="Rating" src="https://www.codefactor.io/repository/github/INURAMSA/INURAMSA/badge/master"></a>
 </p>
 <p align="center">
-<a href="https://github.com/INURAMSA/INURAMSA/followers"><img title="Followers" src="https://img.shields.io/github/followers/INURAMSA?color=blue&style=flat-square"></a>
-<a href="https://github.com/INURAMSA/INURAMSA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/INURAMSA/INURAMSA?color=red&style=flat-square"></a>
-<a href="https://github.com/INURAMSA/INURAMSA/network/members"><img title="Forks" src="http://img.shields.io/github/forks/INURAMSA/INURAMSA?color=red&style=flat-square"></a>
-<a href="https://github.com/INURAMSA/INURAMSA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/INURAMSA/INURAMSA?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/INURAMSA/INURAMSA/followers"><img title="Followers" src="https://img.shields.io/github/followers/INURAMSA?style=social&logo=appveyor"></a>
+<a href="https://github.com/INURAMSA/INURAMSA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/INURAMSA/INURAMSA?style=social&logo=appveyor"></a>
+<a href="https://github.com/INURAMSA/INURAMSA/network/members"><img title="Forks" src="http://img.shields.io/github/forks/INURAMSA/INURAMSA?style=social&logo=appveyor"></a>
+<a href="https://github.com/INURAMSA/INURAMSA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/INURAMSA/INURAMSA?style=social&logo=appveyor"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FINURAMSA%2FINURAMSA&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
-<div align="center">
-<details>
  
 </details>
 >kalo Mau Reupload Tag nama saya
