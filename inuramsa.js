@@ -18,7 +18,7 @@ const  base64Img  =  membutuhkan ( 'base64-img' )
 const  fetch  =  membutuhkan ( 'node-fetch' )
 const  { fetchJson }  =  membutuhkan ( './lib/fetcher' )
 const  { tunggu , getBuffer , h2k , generateMessageID , getGroupAdmins , getRandom , banner , start , info , success , close }  =  require ( './lib/functions' )
-const  apikey  =  'Your-Apikey'  // Dapatkan api-lolhuman.xyz
+const  apikey  =  '05c109ec8c4fe01a2b0ed28c'  // Dapatkan api-lolhuman.xyz
 prefiks  =  ''
  waktu  konstan =  momen ( ) . tz ( 'Asia / Jakarta' ) . format ( "HH: mm: ss" )
 
