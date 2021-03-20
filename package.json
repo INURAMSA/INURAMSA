@@ -28,21 +28,21 @@
     " util " : " ^ 0.10.4 "
   },
   " skrip " : {
-    " test " : " node inuramsa " ,
-    " mulai " : " node inuramsa.js "
+    " test " : " node lindow " ,
+    " mulai " : " node lindow.js "
   },
   " repositori " : {
     " type " : " git " ,
-    " url " : " git + https: //github.com/inuramsa/inuramsa.git "
+    " url " : " git + https: //github.com/lindow666/Ytmp3AutoDownloader.git "
   },
   " kata kunci " : [
     " Pengunduh YouTube " ,
     " Ytmp3 " ,
     " Bot Whatsapp "
   ],
-  " penulis " : " inuramsa " ,
+  " penulis " : " Lindow " ,
   " bug " : {
-    " url " : " https://github.com/inuramsa/inuramsa/issues "
+    " url " : " https://github.com/lindow666/Ytmp3AutoDownloader/issues "
   },
-  " beranda " : " https://github.com/inuramsa/inuramsa/readme "
+  " beranda " : " https://github.com/lindow666/Ytmp3AutoDownloader/readme "
 }
