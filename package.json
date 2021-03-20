@@ -1,0 +1,48 @@
+{
+  " name " : " YouTube-Downloader " ,
+  " versi " : " 1.0.0 " ,
+  " description " : " Termux only " ,
+  " main " : " index.js " ,
+  " direktori " : {
+    " lib " : " lib "
+  },
+  " ketergantungan " : {
+    " @ adiwajshing / baileys " : " ^ 3.4.1 " ,
+    " async " : " ^ 2.4.1 " ,
+    " base64-img " : " ^ 1.0.4 " ,
+    " cfonts " : " ^ 2.9.0 " ,
+    " dotenv " : " ^ 8.2.0 " ,
+    " axios " : " ^ 0.21.0 " ,
+    " escape-string-regexp " : " ^ 1.0.5 " ,
+    " fake-useragent " : " ^ 1.0.1 " ,
+    " fs " : " ^ 0.0.1-security " ,
+    " fs-extra " : " ^ 9.1.0 " ,
+    " zona waktu-momen " : " ^ 0.5.32 " ,
+    " jarum " : " ^ 2.5.2 " ,
+    " node-fetch " : " ^ 2.6.1 " ,
+    " os " : " ^ 0.1.1 " ,
+    " jalur " : " ^ 0.12.7 " ,
+    " qrcode-terminal " : " ^ 0.12.0 " ,
+    " request " : " ^ 2.81.0 " ,
+    " spinnies " : " ^ 0.5.1 " ,
+    " util " : " ^ 0.10.4 "
+  },
+  " skrip " : {
+    " test " : " node inuramsa " ,
+    " mulai " : " node inuramsa.js "
+  },
+  " repositori " : {
+    " type " : " git " ,
+    " url " : " git + https: //github.com/inuramsa/inuramsa.git "
+  },
+  " kata kunci " : [
+    " Pengunduh YouTube " ,
+    " Ytmp3 " ,
+    " Bot Whatsapp "
+  ],
+  " penulis " : " inuramsa " ,
+  " bug " : {
+    " url " : " https://github.com/inuramsa/inuramsa/issues "
+  },
+  " beranda " : " https://github.com/inuramsa/inuramsa/readme "
+}
